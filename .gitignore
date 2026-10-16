@@ -1,8 +1,9 @@
-# Данные и модели хранятся на Google Drive
+# Данные и модели — на Google Drive, не в Git
 data/
 models/
+vacancies*.xlsx
 
-# Служебные файлы Python
+# Служебные файлы
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
