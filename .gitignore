@@ -1,0 +1,8 @@
+# Данные и модели хранятся на Google Drive
+data/
+models/
+
+# Служебные файлы Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
